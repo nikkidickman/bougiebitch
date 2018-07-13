@@ -32,7 +32,9 @@
         "#3d8366",
         "#279171",
         "#295b46",
-        "#4f927f"
+        "#4f927f",
+        "#6e53df",
+        "#7562c4"
       ]
     },
     "versionFirst": "4.5.2",
@@ -900,7 +902,7 @@
               "text-align": "left !important"
             },
             "H2": {
-              "color": "#5a31fb"
+              "color": "#7562c4"
             }
           },
           "_name": "features15",
