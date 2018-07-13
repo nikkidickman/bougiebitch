@@ -491,11 +491,11 @@
               }
             },
             ".mbr-section-subtitle, .typed-text": {
-              "color": "#767676",
+              "color": "#465052",
               "text-align": "center"
             },
             ".mbr-section-text,.mbr-section-btn": {
-              "color": "#767676"
+              "color": "#465052"
             }
           },
           "_name": "header7",
